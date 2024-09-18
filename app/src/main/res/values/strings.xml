@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MilkQuality</string>
+
+    <string name="root_url">http://10.13.1.15:3000/api/milk</string>
+
+    <string name="title">Milk Quality</string>
+    <string name="title_ph">pH</string>
+    <string name="title_temp">Temp</string>
+    <string name="title_taste">Taste</string>
+    <string name="title_odor">Odor</string>
+    <string name="title_fat">Fat</string>
+    <string name="title_turbidity">Turbidity</string>
+
+    <string name="bt_target">Target</string>
+
+    <string-array name="taste">
+        <item>Bad</item>
+        <item>Good</item>
+    </string-array>
+    <string-array name="odor">
+        <item>Bad</item>
+        <item>Good</item>
+    </string-array>
+    <string-array name="fat">
+        <item>Low</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="turbidity">
+        <item>Low</item>
+        <item>High</item>
+    </string-array>
+
+
+</resources>
